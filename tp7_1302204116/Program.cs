@@ -10,7 +10,6 @@ namespace tp7_1302204116
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
